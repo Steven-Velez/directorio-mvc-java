@@ -1,10 +1,10 @@
 package vista;
 
-import modelo. Producto;
-
 import java.util.InputMismatchException;
 import java.util.List;
 import java.util.Scanner;
+
+import controlador.Producto;
 
 public class InventarioVista {
     private Scanner scanner;

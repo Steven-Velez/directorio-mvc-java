@@ -1,7 +1,6 @@
 package controlador;
 
 import modelo.BaseDeDatos;
-import modelo.Producto;
 import vista.InventarioVista;
 
 import java.util.List;

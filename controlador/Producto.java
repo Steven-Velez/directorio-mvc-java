@@ -1,4 +1,4 @@
-package modelo;
+package controlador;
 
 public class Producto {
     private String nombre;

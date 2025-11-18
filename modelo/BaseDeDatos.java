@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
+import controlador.Producto;
+
 public class BaseDeDatos {
     private List<Producto> productos;
 
