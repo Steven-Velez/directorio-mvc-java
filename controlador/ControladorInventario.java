@@ -6,6 +6,7 @@ import vista.InventarioVista;
 import java.util.List;
 
 public class ControladorInventario {
+
     private BaseDeDatos baseDatos;
     private InventarioVista vista;
 
@@ -14,7 +15,6 @@ public class ControladorInventario {
         this.vista = vista;
     }
 
-  
     public void iniciar() {
         boolean salir = false;
         while (!salir) {
